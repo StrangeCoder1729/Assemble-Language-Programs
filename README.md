@@ -1,4 +1,4 @@
-# Assemble-Language-Programs
+# Assembly-Language-Programs
 
 --> Microprocessor 8086
 
